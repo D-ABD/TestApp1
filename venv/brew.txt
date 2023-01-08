@@ -1,0 +1,11 @@
+Toutes les dépendances brew
+
+aom                     git                     jpeg-turbo              libvmaf                 lz4                     sdl2_image
+brotli                  glib                    jpeg-xl                 libvorbis               lzo                     sdl2_mixer
+cairo                   graphite2               libavif                 libx11                  mpg123                  sdl2_ttf
+flac                    gstreamer               libmodplug              libxau                  openexr                 webp
+fontconfig              harfbuzz                libogg                  libxcb                  pcre2                   xorgproto
+freetype                highway                 libpng                  libxdmcp                pixman                  xz
+gettext                 icu4c                   libpthread-stubs        libxext                 pkg-config              zstd
+giflib                  imath                   libtiff                 libxrender              sdl2
+
